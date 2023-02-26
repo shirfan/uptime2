@@ -4,19 +4,19 @@
     "url": "$KOS_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kos",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 862,
     "timeDay": 1002,
     "timeWeek": 938,
     "timeMonth": 862,
     "timeYear": 862,
     "dailyMinutesDown": {
-      "2023-02-26": 14
+      "2023-02-26": 2
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://kos02.ilger.com",
     "icon": "https://icons.duckduckgo.com/ip3/kos02.ilger.com.ico",
     "slug": "kos-02",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 830,
     "timeDay": 958,
     "timeWeek": 869,
     "timeMonth": 830,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2023-02-26": 13
+      "2023-02-26": 0
     }
   },
   {
