@@ -4,18 +4,20 @@
     "url": "$KOS_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 852,
-    "timeDay": 833,
-    "timeWeek": 872,
-    "timeMonth": 852,
-    "timeYear": 852,
-    "dailyMinutesDown": {}
+    "time": 841,
+    "timeDay": 763,
+    "timeWeek": 845,
+    "timeMonth": 841,
+    "timeYear": 841,
+    "dailyMinutesDown": {
+      "2023-03-03": 0
+    }
   },
   {
     "name": "Posta",
@@ -40,18 +42,20 @@
     "url": "https://kos02.ilger.com",
     "icon": "https://icons.duckduckgo.com/ip3/kos02.ilger.com.ico",
     "slug": "kos-02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 830,
-    "timeDay": 783,
-    "timeWeek": 859,
-    "timeMonth": 830,
-    "timeYear": 830,
-    "dailyMinutesDown": {}
+    "time": 819,
+    "timeDay": 724,
+    "timeWeek": 834,
+    "timeMonth": 819,
+    "timeYear": 819,
+    "dailyMinutesDown": {
+      "2023-03-03": 0
+    }
   },
   {
     "name": "smtp2.ilger.com",
