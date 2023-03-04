@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kos",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 845,
-    "timeDay": 806,
-    "timeWeek": 855,
-    "timeMonth": 845,
-    "timeYear": 845,
-    "dailyMinutesDown": {
-      "2023-03-03": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 839,
+    "timeDay": 730,
+    "timeWeek": 833,
+    "timeMonth": 839,
+    "timeYear": 839,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Posta",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 783,
-    "timeDay": 617,
-    "timeWeek": 803,
-    "timeMonth": 783,
-    "timeYear": 783,
+    "time": 776,
+    "timeDay": 619,
+    "timeWeek": 759,
+    "timeMonth": 776,
+    "timeYear": 776,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kos02.ilger.com.ico",
     "slug": "kos-02",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 825,
-    "timeDay": 777,
-    "timeWeek": 845,
-    "timeMonth": 825,
-    "timeYear": 825,
-    "dailyMinutesDown": {
-      "2023-03-03": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 827,
+    "timeDay": 806,
+    "timeWeek": 843,
+    "timeMonth": 827,
+    "timeYear": 827,
+    "dailyMinutesDown": {}
   },
   {
     "name": "smtp2.ilger.com",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 236,
-    "timeWeek": 272,
-    "timeMonth": 268,
-    "timeYear": 268,
+    "time": 266,
+    "timeDay": 226,
+    "timeWeek": 263,
+    "timeMonth": 266,
+    "timeYear": 266,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 216,
-    "timeWeek": 275,
-    "timeMonth": 276,
-    "timeYear": 276,
+    "time": 272,
+    "timeDay": 190,
+    "timeWeek": 271,
+    "timeMonth": 272,
+    "timeYear": 272,
     "dailyMinutesDown": {}
   }
 ]
