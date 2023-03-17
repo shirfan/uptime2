@@ -22,9 +22,9 @@
     "url": "https://posta.ilger.com",
     "icon": "https://icons.duckduckgo.com/ip3/posta.ilger.com.ico",
     "slug": "posta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 893,
     "timeMonth": 813,
     "timeYear": 801,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-17": 0
+    }
   },
   {
     "name": "KOS 02",
