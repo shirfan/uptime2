@@ -1,7 +1,7 @@
 url: vps.qweb.eu
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-11T17:45:18.423Z
+status: up
+code: 200
+responseTime: 383
+lastUpdated: 2023-09-11T17:50:20.441Z
 startTime: 2023-02-10T14:11:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
