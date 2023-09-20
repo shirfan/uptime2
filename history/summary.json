@@ -88,18 +88,19 @@
     "url": "vps.qweb.eu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-qweb-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 323,
-    "timeDay": 416,
+    "timeDay": 463,
     "timeWeek": 361,
     "timeMonth": 404,
     "timeYear": 323,
     "dailyMinutesDown": {
+      "2023-09-20": 0,
       "2023-05-31": 17
     }
   }
