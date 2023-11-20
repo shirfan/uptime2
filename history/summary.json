@@ -6,16 +6,17 @@
     "slug": "kos",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 895,
+    "time": 896,
     "timeDay": 849,
     "timeWeek": 820,
     "timeMonth": 846,
-    "timeYear": 895,
+    "timeYear": 896,
     "dailyMinutesDown": {
+      "2023-11-20": 0,
       "2023-05-17": 19
     }
   },
