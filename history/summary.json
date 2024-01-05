@@ -4,9 +4,9 @@
     "url": "$KOS_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 885,
     "timeYear": 895,
     "dailyMinutesDown": {
+      "2024-01-05": 0,
       "2023-05-17": 19
     }
   },
