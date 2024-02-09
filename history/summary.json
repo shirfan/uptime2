@@ -4,9 +4,9 @@
     "url": "$KOS_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 878,
     "timeYear": 894,
     "dailyMinutesDown": {
+      "2024-02-09": 0,
       "2023-05-17": 19
     }
   },
@@ -26,9 +27,9 @@
     "slug": "posta",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 845,
     "timeDay": 684,
@@ -36,7 +37,6 @@
     "timeMonth": 788,
     "timeYear": 845,
     "dailyMinutesDown": {
-      "2024-02-09": 7,
       "2023-11-21": 55,
       "2023-11-16": 61,
       "2023-08-03": 37,
