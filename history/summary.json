@@ -4,18 +4,19 @@
     "url": "$KOS_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 881,
+    "time": 882,
     "timeDay": 996,
     "timeWeek": 930,
     "timeMonth": 883,
     "timeYear": 898,
     "dailyMinutesDown": {
+      "2026-02-13": 2,
       "2025-07-22": 94,
       "2025-04-28": 85
     }
@@ -53,10 +54,10 @@
     "url": "https://kos02.ilger.com",
     "icon": "https://icons.duckduckgo.com/ip3/kos02.ilger.com.ico",
     "slug": "kos-02",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 863,
@@ -65,6 +66,7 @@
     "timeMonth": 1013,
     "timeYear": 878,
     "dailyMinutesDown": {
+      "2026-02-13": 2,
       "2026-01-25": 34,
       "2025-07-22": 94,
       "2025-04-28": 85
@@ -75,9 +77,9 @@
     "url": "smtp2.ilger.it",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp2-ilger-com",
-    "status": "up",
+    "status": "down",
     "uptime": "96.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
@@ -87,6 +89,7 @@
     "timeMonth": 121,
     "timeYear": 125,
     "dailyMinutesDown": {
+      "2026-02-13": 0,
       "2026-01-25": 20
     }
   },
