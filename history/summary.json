@@ -13,7 +13,7 @@
     "time": 910,
     "timeDay": 708,
     "timeWeek": 790,
-    "timeMonth": 870,
+    "timeMonth": 874,
     "timeYear": 907,
     "dailyMinutesDown": {
       "2026-02-13": 34,
@@ -37,8 +37,8 @@
     "time": 848,
     "timeDay": 618,
     "timeWeek": 760,
-    "timeMonth": 856,
-    "timeYear": 848,
+    "timeMonth": 866,
+    "timeYear": 849,
     "dailyMinutesDown": {
       "2026-01-25": 21,
       "2026-02-06": 35,
@@ -60,8 +60,8 @@
     "time": 908,
     "timeDay": 677,
     "timeWeek": 835,
-    "timeMonth": 855,
-    "timeYear": 917,
+    "timeMonth": 859,
+    "timeYear": 918,
     "dailyMinutesDown": {
       "2026-01-25": 34,
       "2026-02-13": 34,
@@ -76,16 +76,16 @@
     "url": "smtp2.ilger.it",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp2-ilger-com",
-    "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "82.34%",
-    "uptimeWeek": "88.53%",
-    "uptimeMonth": "96.20%",
-    "uptimeYear": "99.66%",
+    "status": "up",
+    "uptime": "97.00%",
+    "uptimeDay": "52.99%",
+    "uptimeWeek": "81.81%",
+    "uptimeMonth": "94.66%",
+    "uptimeYear": "99.53%",
     "time": 131,
-    "timeDay": 108,
-    "timeWeek": 126,
-    "timeMonth": 129,
+    "timeDay": 138,
+    "timeWeek": 130,
+    "timeMonth": 130,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2026-01-25": 20,
@@ -97,7 +97,8 @@
       "2026-11-21": 222,
       "2026-11-20": 32,
       "2026-11-22": 404,
-      "2026-11-23": 0
+      "2026-11-24": 105,
+      "2026-11-23": 572
     }
   },
   {
@@ -114,7 +115,7 @@
     "time": 131,
     "timeDay": 109,
     "timeWeek": 123,
-    "timeMonth": 129,
+    "timeMonth": 130,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2026-05-21": 76
