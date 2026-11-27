@@ -76,10 +76,10 @@
     "url": "smtp2.ilger.it",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp2-ilger-com",
-    "status": "up",
-    "uptime": "96.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "74.84%",
+    "status": "down",
+    "uptime": "96.95%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "74.91%",
     "uptimeMonth": "91.92%",
     "uptimeYear": "99.30%",
     "time": 131,
@@ -99,7 +99,8 @@
       "2026-11-22": 404,
       "2026-11-24": 692,
       "2026-11-23": 572,
-      "2026-11-25": 614
+      "2026-11-25": 614,
+      "2026-11-27": 0
     }
   },
   {
